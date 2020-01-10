@@ -1,0 +1,2 @@
+module SeasControllerHelper
+end
